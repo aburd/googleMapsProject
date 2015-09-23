@@ -1,0 +1,830 @@
+{
+    "Europe & United Kingdom": [
+        {
+            "name": "40 Bank Street, Canary Wharf",
+            "address": "Level 18 40 Bank Street (HQ3) Canary Wharf London E14 5NR"
+        },
+        {
+            "name": "Dashwood House",
+            "address": "Level 17, Dashwood House 69 Old Broad Street London EC2M 1QS, United Kingdom"
+        },
+        {
+            "name": "One Mayfair Place",
+            "address": "Level 1, 1 Mayfair Place London, W1J 8AJ, United Kingdom"
+        },
+        {
+            "name": "The Leadenhall Building",
+            "address": "Level 30, 122 Leadenhall Street City of London, EC3V 1LR, United Kingdom"
+        },
+        {
+            "name": "Champs Elysées - Georges V",
+            "address": "Level 5, 101 Avenue des Champs Elys&#xE9;es Paris 75008 France "
+        },
+        {
+            "name": "Haussmann",
+            "address": "Actualis, Level 2 21 &amp; 23 Boulevard Haussmann Paris 75009 France"
+        },
+        {
+            "name": "Bastion Tower",
+            "address": "Levels 20 &amp; 21, Bastion Tower 5 Place du Champ de Mars B -1050, Brussels"
+        },
+        {
+            "name": "Schuman",
+            "address": "Level 4, European Quarter - Schuman Rue de la Loi 227 B-1040 Brussels Belgium"
+        }
+    ]
+,
+    "Turkey": [
+        {
+            "name": "Louis Vuitton Orjin Building",
+            "address": "Levels 5 and 6 Louis Vuitton Orjin Building 15 Bostan Street Tesvikiye (Corner Abdi Ipekci Street) Nisantasi Istanbul 34367 Turkey"
+        },
+        {
+            "name": "Tekfen Tower",
+            "address": "Level 8 Tekfen Tower Buyukdere St. No.209 4. Levent Sisli Istanbul 34394 Turkey"
+        }
+    ]
+,
+    "Bahrain": [
+        {
+            "name": "Bahrain Financial Harbour",
+            "address": "Levels 22 &amp; 41, West Tower Bahrain Financial Harbour, King Faisal Highway Manama, Bahrain"
+        }
+    ]
+,
+    "Singapore": [
+        {
+            "name": "Six Battery Road",
+            "address": "Levels 30 Six Battery Road Singapore 049909"
+        },
+        {
+            "name": "Marina Bay Financial Centre Tower 2",
+            "address": "Level 39 Marina Bay Financial Centre Tower 2 10 Marina Boulevard Singapore 018983"
+        },
+        {
+            "name": "Suntec Tower Three",
+            "address": "Penthouse Level &amp; Level 42, Suntec Tower Three 8 Temasek Boulevard Singapore 038988"
+        },
+        {
+            "name": "PSA Building",
+            "address": "Level 26, PSA Building 460 Alexandra Road Singapore 119963"
+        },
+        {
+            "name": "Metropolis Tower 2",
+            "address": "Metropolis Tower 2 Unit 08-09 11 North Buona Vista Drive Singapore 138589"
+        }
+    ]
+,
+    "India": [
+        {
+            "name": "Vibgyor Towers",
+            "address": "Level 7 and 8 Vibgyor Towers G Block C62 Bandra Kurla Complex Mumbai 400 051 India"
+        },
+        {
+            "name": "Mindspace Complex",
+            "address": "Level 7, Maximus Towers Building 2A, Mindspace Hyderabad, India"
+        }
+    ]
+,
+    "United Arab Emirates": [
+        {
+            "name": "Etihad Towers",
+            "address": "Level 36, Etihad Towers Tower 3, Corniche Road Abu Dhabi, United Arab Emirates "
+        },
+        {
+            "name": "Al Mamoura",
+            "address": "Level 4 Building B Al Mamoura Mohammed Bin Khalifa Street (15th St) Muroor District Abu Dhabi, United Arab Emirates"
+        },
+        {
+            "name": "World Trade Centre",
+            "address": "Level 17, World Trade Center Khalifa Bin Zayed the First Street  Abu Dhabi, United Arab Emirates"
+        },
+        {
+            "name": "Al Habtoor Business Tower",
+            "address": "Levels 21 &amp; 28 Al Habtoor Business Tower Dubai Marina Dubai United Arab Emirates"
+        },
+        {
+            "name": "Emirates Towers",
+            "address": "Levels 41 &amp; 42, Emirates Towers Sheikh Zayed Road Dubai"
+        },
+        {
+            "name": "Boulevard Plaza Tower 2",
+            "address": "Level 23, Boulevard Plaza  Tower 2 Dubai, UAE"
+        },
+        {
+            "name": "Almas Tower",
+            "address": "Level 54 Jumeirah Lake Towers Dubai, UAE"
+        }
+    ]
+,
+    "Tokyo": [
+    {
+        "Id": "10528",
+        "Longitude": "139.762828",
+        "Latitude": "35.681549",
+        "ThumbnailUrl": "/media/10950",
+        "ThumbnailAlias": "",
+        "Address": "Level 1 Yusen Building<br />2-3-2 Marunouchi, Chiyoda-ku<br />Tokyo 100-0005 Japan",
+        "Telephone": "+81 3 5533 8600",
+        "BuildingUrl": "/en/locations/tokyo/marunouchi-yusen-building/virtual-offices/",
+        "BuildingName": "Marunouchi Yusen Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "1496",
+        "Longitude": "139.7693190000",
+        "Latitude": "35.6826290000",
+        "ThumbnailUrl": "/media/10957",
+        "ThumbnailAlias": "",
+        "Address": "Level 20 Marunouchi Trust Tower - Main<br />1-8-3 Marunouchi Chiyoda-Ku<br />Tokyo 100-0005 Japan",
+        "Telephone": "+81 3 6269 3000",
+        "BuildingUrl": "/en/locations/tokyo/marunouchi-trust-tower-main/virtual-offices/",
+        "BuildingName": "Marunouchi Trust Tower - Main",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3653",
+        "Longitude": "139.7654640000",
+        "Latitude": "35.6871230000",
+        "ThumbnailUrl": "/media/10951",
+        "ThumbnailAlias": "",
+        "Address": "Level 27 Tokyo Sankei Building<br />1-7-2 Otemachi Chiyoda-ku<br />Tokyo 100-0004 Japan",
+        "Telephone": "+81 3 3242 6333",
+        "BuildingUrl": "/en/locations/tokyo/otemachi-tokyo-sankei-building/virtual-offices/",
+        "BuildingName": "Otemachi Tokyo Sankei Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3661",
+        "Longitude": "139.7742610000",
+        "Latitude": "35.6887430000",
+        "ThumbnailUrl": "/media/10958",
+        "ThumbnailAlias": "",
+        "Address": "Level 7 Wakamatsu Building<br />3-3-6 Nihonbashi-Honcho Chuo-Ku<br />Tokyo 103-0023  Japan",
+        "Telephone": "+81 3 6202 7600",
+        "BuildingUrl": "/en/locations/tokyo/nihonbashi-wakamatsu-building/virtual-offices/",
+        "BuildingName": "Nihonbashi Wakamatsu Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3665",
+        "Longitude": "139.7547290000",
+        "Latitude": "35.6695470000",
+        "ThumbnailUrl": "/media/10952",
+        "ThumbnailAlias": "",
+        "Address": "Level 14 Hibiya Central Building<br />1-2-9 Nishi Shimbashi Minato-Ku<br />Tokyo 105-0003 Japan",
+        "Telephone": "+81 3 5532 7300",
+        "BuildingUrl": "/en/locations/tokyo/hibiya-central-building/virtual-offices/",
+        "BuildingName": "Hibiya Central Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3669",
+        "Longitude": "139.7586130000",
+        "Latitude": "35.6571880000",
+        "ThumbnailUrl": "/media/10959",
+        "ThumbnailAlias": "",
+        "Address": "Level 21 Shiodome Shibarikyu Building<br />1-2-3 Kaigan Minato-ku<br />Tokyo 105-0022 Japan",
+        "Telephone": "+81 3 5403 6500",
+        "BuildingUrl": "/en/locations/tokyo/shiodome-shibarikyu-building/virtual-offices/",
+        "BuildingName": "Shiodome Shibarikyu Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3819",
+        "Longitude": "139.7433410000",
+        "Latitude": "35.6646170000",
+        "ThumbnailUrl": "/media/10953",
+        "ThumbnailAlias": "",
+        "Address": "Level 27 Shiroyama Trust Tower<br />4-3-1 Toranomon Minato-ku Tokyo<br />105-6027 Japan",
+        "Telephone": "+81 3 5404 8100",
+        "BuildingUrl": "/en/locations/tokyo/shiroyama-trust-tower/virtual-offices/",
+        "BuildingName": "Shiroyama Trust Tower",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3834",
+        "Longitude": "139.7420370000",
+        "Latitude": "35.6276460000",
+        "ThumbnailUrl": "/media/10960",
+        "ThumbnailAlias": "",
+        "Address": "Level 28 Shinagawa Intercity Tower A<br />2-15-1 Konan Minato-ku<br />Tokyo 108-6028 Japan",
+        "Telephone": "+81 3 6717 4500",
+        "BuildingUrl": "/en/locations/tokyo/shinagawa-intercity-tower-a/virtual-offices/",
+        "BuildingName": "Shinagawa Intercity Tower A",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3826",
+        "Longitude": "139.7112000000",
+        "Latitude": "35.6653850000",
+        "ThumbnailUrl": "/media/10954",
+        "ThumbnailAlias": "",
+        "Address": "Level 11 Aoyama Palacio Tower<br />3-6-7 Kita-Aoyama Minato-Ku<br />Tokyo 107-0061 Japan",
+        "Telephone": "+81 3 5778 7600",
+        "BuildingUrl": "/en/locations/tokyo/aoyama-palacio-tower/virtual-offices/",
+        "BuildingName": "Aoyama Palacio Tower",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3842",
+        "Longitude": "139.7134170000",
+        "Latitude": "35.6421860000",
+        "ThumbnailUrl": "/media/10961",
+        "ThumbnailAlias": "",
+        "Address": "Level 18 Yebisu Garden Place Tower<br />4-20-3 Ebisu Shibuya-ku<br />Tokyo 150-6018 Japan<br />",
+        "Telephone": "+81 3 5789 5700",
+        "BuildingUrl": "/en/locations/tokyo/yebisu-garden-place-tower/virtual-offices/",
+        "BuildingName": "Yebisu Garden Place Tower",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3860",
+        "Longitude": "139.6953140000",
+        "Latitude": "35.6930180000",
+        "ThumbnailUrl": "/media/10955",
+        "ThumbnailAlias": "",
+        "Address": "Level 32 Shinjuku Nomura Building<br />1-26-2 Nishi Shinjuku Shinjuku-ku<br />Tokyo 163-0532 Japan<br />",
+        "Telephone": "+81 3 5322 2900",
+        "BuildingUrl": "/en/locations/tokyo/shinjuku-nomura-building/virtual-offices/",
+        "BuildingName": "Shinjuku Nomura Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3880",
+        "Longitude": "139.6907730000",
+        "Latitude": "35.6945730000",
+        "ThumbnailUrl": "/media/10962",
+        "ThumbnailAlias": "",
+        "Address": "Shinjuku Oak City<br />Level 8 Nittochi Nishi-Shinjuku Building<br />6-10-1 Nishi-Shinjuku Shinjuku-ku<br />Tokyo 160-0023 Japan",
+        "Telephone": "+81 3 5325 3100",
+        "BuildingUrl": "/en/locations/tokyo/shinjuku-oak-city/virtual-offices/",
+        "BuildingName": "Shinjuku Oak City",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "11487",
+        "Longitude": "139.7180240000",
+        "Latitude": "35.7294450000",
+        "ThumbnailUrl": "/media/5599",
+        "ThumbnailAlias": "",
+        "Address": "Level 45 Sunshine 60<br />3-1-1 Higashi Ikebukuro Toshima-ku<br />Tokyo 170-6045 Japan",
+        "Telephone": "+81 3 5979 2100",
+        "BuildingUrl": "/en/locations/tokyo/sunshine-city/",
+        "BuildingName": "Sunshine City",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3892",
+        "Longitude": "139.7920280000",
+        "Latitude": "35.6311380000",
+        "ThumbnailUrl": "/media/10963",
+        "ThumbnailAlias": "",
+        "Address": "Level 9 Ariake Frontier Building Tower B<br />3-7-26 Ariake Koto-ku<br />Tokyo 135-0063 Japan",
+        "Telephone": "+81 3 5530 9100",
+        "BuildingUrl": "/en/locations/tokyo/servcorp-tokyo-big-sight-ariake-frontier-building/virtual-offices/",
+        "BuildingName": "Servcorp Tokyo Big Sight - Ariake Frontier Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    }
+],
+    "Yokohama": [
+    {
+        "Id":"3900","Longitude":"139.6304800000","Latitude":"35.4522800000","ThumbnailUrl":"/media/10997","ThumbnailAlias":"","Address":"Level 10 TOC Minato Mirai<br />1-1-7 Sakuragi-cho Naka-ku<br />Yokohama Kanagawa 231-0062 Japan","Telephone":"+81 45 228 5100","BuildingUrl":"/en/locations/yokohama/toc-minato-mirai/virtual-offices/","BuildingName":"TOC Minato Mirai","Description":null,"PriceRow":null,"IsReduced":false,"IsReducedServiceOffice":false,"IsRemovePricingMobile":false,"Content":null,"ShareOfficeContent":null,"ServiceOfficeContent":null,"MeetingRoomContent":null
+    }
+]
+,
+    "Osaka": [
+    {
+        "Id": "3896",
+        "Longitude": "135.4952540000",
+        "Latitude": "34.6999700000",
+        "ThumbnailUrl": "/media/10980",
+        "ThumbnailAlias": "",
+        "Address": "Levels 18 & 19 Hilton Plaza West Office Tower<br />2-2-2 Umeda Kita-ku<br />Osaka 530-0001 Japan",
+        "Telephone": "+81 6 6133 4550",
+        "BuildingUrl": "/en/locations/osaka/hilton-plaza-west-office-tower/virtual-offices/",
+        "BuildingName": "Umeda Hilton Plaza West Office Tower - New floor open!",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3884",
+        "Longitude": "135.5007340000",
+        "Latitude": "34.6757890000",
+        "ThumbnailUrl": "/media/10981",
+        "ThumbnailAlias": "",
+        "Address": "Level 4 Shinsaibashi Plaza Building Shinkan<br />3-12-21 Minami-Senba Chuo-ku<br />Osaka 542-0081 Japan",
+        "Telephone": "+81 6 6258 3700",
+        "BuildingUrl": "/en/locations/osaka/cartier-building-shinsaibashi-plaza/virtual-offices/",
+        "BuildingName": "Cartier Building - Shinsaibashi Plaza",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3864",
+        "Longitude": "135.4914330000",
+        "Latitude": "34.6879220000",
+        "ThumbnailUrl": "/media/10982",
+        "ThumbnailAlias": "",
+        "Address": "Level 9, Edobori Center Building<br />2-1-1 Edobori Nishi-ku<br />Osaka 550-0002 Japan",
+        "Telephone": "+81 6 6225 1000",
+        "BuildingUrl": "/en/locations/osaka/edobori-center-building/virtual-offices/",
+        "BuildingName": "Edobori Center Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    }
+]
+,
+    "Nagoya":[
+    {
+        "Id": "3801",
+        "Longitude": "136.8811310000",
+        "Latitude": "35.1749330000",
+        "ThumbnailUrl": "/media/11007",
+        "ThumbnailAlias": "",
+        "Address": "Level 40 Nagoya Lucent Tower<br />6-1 Ushijima-cho Nishi-ku<br />Nagoya 451-6040 Japan",
+        "Telephone": "+81 52 569 1500 ",
+        "BuildingUrl": "/en/locations/nagoya/nagoya-lucent-tower/virtual-offices/",
+        "BuildingName": "Nagoya Lucent Tower",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3785",
+        "Longitude": "136.9036650000",
+        "Latitude": "35.1683590000",
+        "ThumbnailUrl": "/media/11008",
+        "ThumbnailAlias": "",
+        "Address": "Level 4 Nagoya Nikko Shoken Building<br />3-2-3 Sakae Naka-ku<br />Nagoya 460-0008 Japan",
+        "Telephone": "+81 52  269 8200",
+        "BuildingUrl": "/en/locations/nagoya/nagoya-nikko-shoken-building/virtual-offices/",
+        "BuildingName": "Nagoya Nikko Shoken Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    }
+]
+,
+    "Fukuoka":[
+    {
+        "Id": "3781",
+        "Longitude": "130.4191090000",
+        "Latitude": "33.5918510000",
+        "ThumbnailUrl": "/media/11011",
+        "ThumbnailAlias": "",
+        "Address": "Level 2 NOF Hakata Ekimae Building<br />1-15-20 Hakata Ekimae Hakata-ku <br />Fukuoka  812-0011 Japan",
+        "Telephone": "+81 92 419 2300",
+        "BuildingUrl": "/en/locations/fukuoka/nof-hakata-ekimae-building/virtual-offices/",
+        "BuildingName": "Nof Hakata Ekimae Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    },
+    {
+        "Id": "3777",
+        "Longitude": "130.4012710000",
+        "Latitude": "33.5915795000",
+        "ThumbnailUrl": "/media/11012",
+        "ThumbnailAlias": "",
+        "Address": "Level 15 Fukuoka Tenjin Fukoku Seimei Building<br />1-9-17 Tenjin Chuo-ku<br />Fukuoka 810-0001 Japan",
+        "Telephone": "+81 92 717 3400",
+        "BuildingUrl": "/en/locations/fukuoka/fukuoka-tenjin-fukoku-seimei-building/virtual-offices/",
+        "BuildingName": "Fukuoka Tenjin Fukoku Seimei Building",
+        "Description": null,
+        "PriceRow": null,
+        "IsReduced": false,
+        "IsReducedServiceOffice": false,
+        "IsRemovePricingMobile": false,
+        "Content": null,
+        "ShareOfficeContent": null,
+        "ServiceOfficeContent": null,
+        "MeetingRoomContent": null
+    }
+]
+,
+
+    "China": [
+        {
+            "name": "China Central Place",
+            "address": "Level 24, Tower 3  China Central Place 77 Jianguo Road, Chaoyang District Beijing 100025"
+        },
+        {
+            "name": "Oriental Plaza",
+            "address": "Level 19, Tower E2 Oriental Plaza,  1 East Chang An Avenue, Dong Cheng District Beijing 100738 "
+        },
+        {
+            "name": "Fortune Financial Center",
+            "address": "Level 26, Fortune Financial Center No. 5, Dong San Huan Zhong Road Chaoyang District Beijing, 100020   "
+        },
+        {
+            "name": "Jing An Kerry Centre",
+            "address": "Level 29, Tower 1 Shanghai Jing An Kerry Centre No. 1515 Nanjing West Road Jing An District, Shanghai 200040 PRC China"
+        },
+        {
+            "name": "Citigroup Tower",
+            "address": "Level 23, Citigroup Tower 33 Huayuanshiqiao Road Pudong, Shanghai 200120 PRC. China"
+        },
+        {
+            "name": "Servcorp At the Bund",
+            "address": "5/F Somekh Building  Rockbund No.149 Yuanmingyuan Road Huangpu District Shanghai 200002 PRC. China"
+        },
+        {
+            "name": "One Aerospace Center",
+            "address": "Level 28 Chengdu One Aerospace Center, No. 7 Xinguanghua Street  Chengdu, 610016, China"
+        },
+        {
+            "name": "Shangri La Office Tower",
+            "address": "Level 18, Shangri-La Office Tower  No 9 Binjiang East Road, Jin Jiang District Chengdu 610021"
+        },
+        {
+            "name": "Guangzhou IFC",
+            "address": "Level 54 Guangzhou IFC  No.5, Zhujiang Road West, Guangzhou 510623 PRC, China"
+        },
+        {
+            "name": "Jiahua International Business Center",
+            "address": "Level 3, JIAHUA International Business Center 15 Hang Da Road, Xihu District, Hangzhou, China 310007"
+        }
+    ]
+,
+    "Hong Kong": [
+        {
+            "name": "Two International Finance Centre",
+            "address": "Level 19 Two International Finance Centre 8 Finance Street, Central Hong Kong, China"
+        },
+        {
+            "name": "The Hong Kong Club Building",
+            "address": "Suite 901 Level 9 The Hong Kong Club Building 3A Chater Road Central Hong Kong China"
+        },
+        {
+            "name": "One Peking",
+            "address": "Unit 1202 Level 12 1 Peking Road Tsimshatsui, Kowloon Hong Kong, China"
+        }
+    ]
+,
+    "Lebanon": [
+        {
+            "name": "Beirut Souks Louis Vuitton Building",
+            "address": "Suite 2029 Level 2 Beirut Souks Louis Vuitton Building  Allenby Street Downtown Beirut Beirut"
+        }
+    ]
+,
+    "Malaysia": [
+        {
+            "name": "Menara Standard Chartered",
+            "address": "Level 20, Menara Standard Chartered  30 Jalan Sultan Ismail 50250 Kuala Lumpur"
+        },
+        {
+            "name": "Menara Citibank",
+            "address": "Level 36, Menara Citibank  165 Jalan Ampang 50450 Kuala Lumpur"
+        },
+        {
+            "name": "NU Tower 2",
+            "address": "Level 23, NU Tower 2, Jalan Tun Sambanthan, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Malaysia"
+        }
+    ]
+,
+    "Kuwait": [
+        {
+            "name": "Sahab Tower",
+            "address": "Level 18 Sahab Tower  Salhia Kuwait City"
+        }
+    ]
+,
+    "United States": [
+        {
+            "name": "12th Midtown",
+            "address": "1075 Peachtree Street NE Suite 3650 Atlanta, GA 30309"
+        },
+        {
+            "name": "Terminus 200",
+            "address": "3333 Piedmont Road  Suite 2050  Atlanta, GA 30305"
+        },
+        {
+            "name": "One International Place",
+            "address": "One International Place  Suite 1400 Boston MA 02110"
+        },
+        {
+            "name": "300 North Lasalle",
+            "address": "300 North LaSalle Suite 4925 Chicago, IL 60654"
+        },
+        {
+            "name": "155 North Wacker",
+            "address": "155 North Wacker Drive  Suite 4250 Chicago, IL 60606"
+        },
+        {
+            "name": "JP Morgan International Plaza III",
+            "address": "14241 Dallas Parkway  JP Morgan International Plaza III Suite 650 Dallas, TX 75254"
+        },
+        {
+            "name": "Rosewood Court",
+            "address": "2101 Cedar Springs Road  Suite 1050 Dallas, TX 75201"
+        },
+        {
+            "name": "Bank Of America Center",
+            "address": "Bank of America Center  700 Louisiana Street Suite 3950 Houston, TX 77002"
+        },
+        {
+            "name": "Williams Tower",
+            "address": "2800 Post Oak Boulevard  Williams Tower Suite 4100 Houston, TX 77056"
+        },
+        {
+            "name": "Irvine Towers",
+            "address": "Irvine Towers  18100 Von Karman Avenue Suite 850  Irvine CA 92612 U.S.A."
+        },
+        {
+            "name": "Figueroa at Wilshire",
+            "address": "601 South Figueroa Street Suite 4050 Los Angeles CA 90017 U.S.A."
+        },
+        {
+            "name": "Southeast Financial Center",
+            "address": "200 South Biscayne Boulevard Suite 2790 Miami FL 33131 U.S.A."
+        },
+        {
+            "name": "1330 Avenue of the Americas",
+            "address": "1330 Avenue of the Americas  Suite 23 New York City, NY 10019"
+        },
+        {
+            "name": "The Seagram Building",
+            "address": "The Seagram Building  375 Park Avenue Suite 2607 New York City, NY 10152"
+        },
+        {
+            "name": "17 State Street",
+            "address": "17 State Street Suite 4000 New York City, NY 10004"
+        },
+        {
+            "name": "One World Trade Center",
+            "address": "285 Fulton Street Suite 8500 New York, NY 10007"
+        },
+        {
+            "name": "BNY Mellon Center",
+            "address": "1735 Market Street Suite 3750 Philadelphia, PA 19103"
+        },
+        {
+            "name": "101 California Street",
+            "address": "101 California Street  Suite 2710 San Francisco, CA 94111 U.S.A."
+        },
+        {
+            "name": "555 California Street",
+            "address": "555 California Street  Suite 4925 San Francisco CA 94104 U.S.A"
+        },
+        {
+            "name": "Corp Office Center Tysons II",
+            "address": "Corporate Office Centre Tysons II  Suite 1580 1650 Tysons Boulevard  Tysons Corner, VA 22102"
+        },
+        {
+            "name": "1155 F Street",
+            "address": "1155 F Street NW  Suite 1050 Washington DC 20004"
+        },
+        {
+            "name": "1717 Pennsylvania Avenue",
+            "address": "1717 Pennsylvania Avenue NW  Suite 1025 Washington, DC 20006"
+        }
+    ]
+,
+    "Qatar": [
+        {
+            "name": "Commercial Bank Plaza",
+            "address": "Levels 14 &amp; 15, Commercialbank Plaza West Bay, Doha Qatar"
+        },
+        {
+            "name": "Tornado Tower",
+            "address": "Level 22 West Bay Doha, Qatar"
+        },
+        {
+            "name": "Burj Doha",
+            "address": "Level 21 West Bay Doha, Qatar"
+        }
+    ]
+,
+    "New Zealand": [
+        {
+            "name": "PWC Tower",
+            "address": "Level 27, PWC Tower  188 Quay Street Auckland 1010 New Zealand"
+        },
+        {
+            "name": "Vero Centre",
+            "address": "Level 31  48 Shortland Street Auckland 1010 New Zealand"
+        },
+        {
+            "name": "Vodafone on the Quay",
+            "address": "Level 16, Vodafone on the Quay  157 Lambton Quay Wellington 6011 New Zealand"
+        }
+    ]
+,
+    "Philippines": [
+        {
+            "name": "Tower One Ayala Triangle",
+            "address": "Suite 22C Level 22 Tower One and Exchange Plaza Ayala Triangle Ayala Avenue Makati City Manila 1226 Philippines"
+        },
+        {
+            "name": "6750 Ayala Avenue",
+            "address": "Level 17 6750 Ayala Avenue  Makati City, Manila 1226 Philippines "
+        }
+    ]
+,
+    "Saudi Arabia": [
+        {
+            "name": "Jameel Square",
+            "address": "Level 9, Jameel Square Corner of Tahlia &amp; Al Andalus Street Jeddah"
+        },
+        {
+            "name": "Kings Road Tower",
+            "address": "Level 26 King&apos;s Road, Jeddah Kingdom of Saudi arabia"
+        },
+        {
+            "name": "Al Murjanah Tower",
+            "address": "Level 7 Prince Sultan St, Ar Rawdah Corner of Prince Sultan St. and Alkayyal St. Jeddah, Kingdom of Saudi Arabia"
+        },
+        {
+            "name": "Al Faisaliah Tower",
+            "address": "Level 18 Al Faisaliah Tower King Fahad Highway Olaya District Riyadh, Kingdom of Saudi Arabia"
+        },
+        {
+            "name": "The Business Gate",
+            "address": "Level 1, Building 7, Zone A The Business Gate Airport Road, Riyadh, 11683 Kingdom of Saudi Arabia"
+        },
+        {
+            "name": "Akaria Plaza",
+            "address": "Level 6, North Wing, Gate D Akaria Plaza, Olaya Street Riyadh, 11481 Kingdom of Saudi Arabia"
+        },
+        {
+            "name": "Olaya Towers",
+            "address": "Level 29, Olaya Towers Intersection of Tahlia street &amp; Olaya Street Olaya District Riyadh Kingdom of Saudi Arabia"
+        },
+        {
+            "name": "Al Hugayet Tower",
+            "address": "Level 22 Al Hugayet Tower King Abdul Aziz Street Dammam 31472 Kingdom of Saudi Arabia"
+        },
+        {
+            "name": "Al Khobar Gate Tower",
+            "address": "Level 21, Al Khobar Gate Tower King Abdul Aziz Street,  Al Khobar - Dammam,  Kingdom of Saudi Arabia"
+        }
+    ]
+,
+    "Thailand": [
+        {
+            "name": "The Offices at Centralworld",
+            "address": "Level 29, The Offices at Centralworld 999/9 Rama I Road, Khwaeng Pathumwan, Khet Pathumwan Bangkok 10330 Thailand"
+        },
+        {
+            "name": "Park Ventures Ecoplex",
+            "address": "Level 18, Park Ventures Ecoplex 57 Wireless Road Lumpini, Patumwan"
+        },
+        {
+            "name": "1 Silom Road",
+            "address": "Levels 8 &amp; 9, 1 Silom Road Silom, Bangrak Bangkok 10500 Thailand"
+        }
+    ]
+}

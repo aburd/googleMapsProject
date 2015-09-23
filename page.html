@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Google Maps Test</title>
+
+<style type="text/css">
+  html, body { height: 100%; margin: 0; padding: 0; }
+  #map { height: 50%; width: 50%; margin: 0 auto;}
+</style>
+</head>
+<body>
+		
+	<div id="map"></div>
+	<p id="res">Result goes here</p>
+	<p id="maps-data"></p>
+	
+  <script src="jquery-1.11.2.min.js"></script>
+	<script defer src='main.js'></script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key='+ myKey + '&callback=initMap">
+  </script>
+</body>
+</html>
