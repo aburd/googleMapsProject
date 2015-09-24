@@ -6,19 +6,52 @@
 
 <style type="text/css">
   html, body { height: 100%; margin: 0; padding: 0; }
+  body { background: #fff9ef; }
   #map { height: 50%; width: 50%; margin: 0 auto;}
+  ul#place-list { list-style-type: none; }
+  li { display: inline; }
+  .location {
+  	padding: 10px;
+  	text-align: center;
+  	display: inline-block;
+  	background: #e0a33a;
+  	cursor: pointer;
+  }
+  .location:hover { background: #e0b34a }
+  .location img { margin: 0 auto; display: block;}
 </style>
 </head>
 <body>
-		
+	<!-- Place buttons -->
+	<ul id="place-list">
+		<li>
+			<div class="location" data-place="Tokyo"><img src="assets/img/tokyo.jpg" alt="">Tokyo</div>
+		</li>
+		<li>
+			<div class="location" data-place="Yokohama"><img src="assets/img/yokohama.jpg" alt="">Yokohama</div>
+		</li>
+		<li>
+			<div class="location" data-place="Osaka"><img src="assets/img/osaka.jpg" alt="">Osaka</div>
+		</li>
+		<li>
+			<div class="location" data-place="Nagoya"><img src="assets/img/nagoya.jpg" alt="">Nagoya</div>
+		</li>
+		<li>
+			<div class="location" data-place="Fukuoka"><img src="assets/img/fukuoka.jpg" alt="">Fukuoka</div>
+		</li>
+	</ul>
+
+	<!-- Google Map -->
 	<div id="map"></div>
+
+	<!-- Where to put any data results -->
 	<p id="res">Result goes here</p>
 	<p id="maps-data"></p>
 	
   <script src="jquery-1.11.2.min.js"></script>
 	<script defer src='main.js'></script>
   <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key='+ myKey + '&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key='+ myKey +'&callback=initMap">
   </script>
 </body>
 </html>
